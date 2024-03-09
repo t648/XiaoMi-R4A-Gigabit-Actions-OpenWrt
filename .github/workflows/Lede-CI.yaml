@@ -13,8 +13,8 @@ on:
 env: 
   # REPO_URL: 
   # REPO_BRANCH: master
-  FEEDS_CONF: config/feeds.conf.default
-  CONFIG_FILE: config/.config
+  FEEDS_CONF: feeds.conf.default
+  CONFIG_FILE: .config
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: false
   UPLOAD_COWTRANSFER: false
